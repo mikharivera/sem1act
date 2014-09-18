@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Eqela Tasklist
+#
+
+projectname: Eqela Tasklist
+vendorid: com.sem1
+mainmodule: com.sem1.eqelatasklist
