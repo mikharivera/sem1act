@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sem12dgame
+#
+
+projectname: sem12dgame
+vendorid: com.mikhaella.rivera
+mainmodule: com.mikhaella.rivera.sem12dgame
