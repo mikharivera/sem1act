@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sem1GUIapp
+#
+
+projectname: sem1GUIapp
+vendorid: com.mikhaella.rivera
+mainmodule: com.mikhaella.rivera.sem1guiapp
