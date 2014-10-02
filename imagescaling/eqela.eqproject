@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# imagescaling
+#
+
+projectname: imagescaling
+vendorid: com.mikhaella.rivera
+mainmodule: com.mikhaella.rivera.imagescaling
