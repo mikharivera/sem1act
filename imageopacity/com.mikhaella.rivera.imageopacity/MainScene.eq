@@ -129,6 +129,14 @@ public class MainScene : SEScene
 		{
 			eleven = add_sprite_for_image(SEImage.for_resource("eleven2"));
 		}
+
+
+		if(pi.is_inside(0.9*get_scene_width(),0.75*get_scene_height(),0.99*get_scene_width(), 0.80*get_scene_height()))
+	    {
+       	 switch_scene(new MainScene());
+		}
+        
+        
 	}
 
 	public void cleanup()
