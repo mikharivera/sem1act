@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Imageopacity
+#
+
+projectname: Imageopacity
+vendorid: com.mikhaella.rivera
+mainmodule: com.mikhaella.rivera.imageopacity
