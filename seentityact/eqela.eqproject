@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SEEntityAct
+#
+
+projectname: SEEntityAct
+vendorid: com.mikha.rivera
+mainmodule: com.mikha.rivera.seentityact
