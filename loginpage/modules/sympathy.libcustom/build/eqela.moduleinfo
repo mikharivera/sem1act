@@ -1,0 +1,11 @@
+ldflags: -lcom.eqela.libsympathy -lcom.eqela.libssl -lcom.eqela.liblocalsocket -lcom.eqela.libhttpjsonclient -lcom.eqela.libhttpclient -lcom.eqela.libsocket -lcom.eqela.libcachedfile -lcom.eqela.libeventloop -lcom.eqela.libmd5 -lcom.eqela.liburl -lcom.eqela.libtexttemplate -lcom.eqela.libmime -lcom.eqela.libbackgroundtask -lcom.eqela.libjson -lcom.eqela.libos -lcom.eqela.libstringutil -lcom.eqela.libio -leq.api -L. -static-libstdc++ -static-libgcc -mwindows -lwinhttp -lws2_32
+depends: eq.api,com.eqela.libos,com.eqela.libjson,com.eqela.libsympathy,com.eqela.libos,com.eqela.libjson,com.eqela.libsympathy
+moduletype: library
+platform: win7m32dll
+url: 
+license: 
+copyright: 
+version: 20141106
+description: 
+displayname: sympathy.libcustom
+id: sympathy.libcustom

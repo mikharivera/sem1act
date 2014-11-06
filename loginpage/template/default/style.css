@@ -1,0 +1,16 @@
+
+/*
+ * Sample stylesheet / template for
+ * a Sympathy project.
+ */
+
+background: url(bg.gif)
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+}
+
+p {
+}
