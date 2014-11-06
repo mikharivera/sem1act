@@ -1,0 +1,50 @@
+
+/*
+ * Sample stylesheet / template for
+ * a Sympathy project.
+ */
+
+body {
+	background-image: url("bg.png");
+    background-color: #1E90FF;
+    font-size: 1em;
+    line-height: 1.4;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal; 
+    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+    -webkit-text-size-adjust: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, span, p { font-family: 'Raleway', sans-serif; }
+
+.blue { color: #6CF; }
+
+.green { color: #CF0; }
+
+h2 {
+	padding: 10px 0;
+}
+
+p {
+	padding: 10px 0;
+	text-align: justify;
+}
+
+a {
+	color: #00008B;
+}
+
+img {
+    vertical-align: middle;
+}
+/* Preloader */
+
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #fff; /* change if the mask should have another color then white */
+    z-index: 99; /* makes sure it stays on top */
+}
